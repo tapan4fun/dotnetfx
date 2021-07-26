@@ -1,2 +1,2 @@
 # dotnetfx
-This repo is created to demonstrate docker file for multi-projects .NET framework solution.
+This repo contains sample ASP.Net multi-projects solutions to demonstrate docker file defition for .NET framework application.
